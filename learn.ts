@@ -1,0 +1,1 @@
+const aString: string = "whatever";
