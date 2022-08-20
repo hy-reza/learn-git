@@ -2,6 +2,7 @@ function undifHandler(): string{
     return "ur var can't be undefined"
 }
 
+
 const variable:undefined = undefined
 
 
@@ -10,3 +11,8 @@ function varcheck(vari:any): any {
 }
 
 console.info(varcheck(variable))
+const newVar:any = "number"
+
+
+
+//add description
